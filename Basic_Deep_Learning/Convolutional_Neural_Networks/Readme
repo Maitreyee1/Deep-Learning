@@ -1,0 +1,4 @@
+This folder contains Python 3 code in Tennsorflow and Keras to apply Convolutional Neural Network.
+The dataset contains 8000 training images and 2000 images in testing set to classify images ito cats and dogs.
+Training set accuracy is 85%
+Test set accuracy is 82%
